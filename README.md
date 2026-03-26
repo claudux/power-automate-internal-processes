@@ -51,3 +51,8 @@ Este repositorio resume soluciones de automatización aplicadas a procesos insti
 
 ## Consideraciones
 Este repositorio presenta una versión adaptada de casos reales, sin exponer información sensible ni detalles internos reservados.
+
+## Contacto
+
+Si quieres conocer más sobre este proyecto o mi trabajo en automatización y análisis de datos, puedes escribirme a:  
+[claudio.duran.m@gmail.com](mailto:claudio.duran.m@gmail.com)
