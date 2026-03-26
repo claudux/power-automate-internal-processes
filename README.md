@@ -38,3 +38,15 @@ flowchart LR
     C --> D[Implementacion en Power Automate]
     D --> E[Pruebas y ajustes]
     E --> F[Operacion y seguimiento]
+```
+
+## Vista general de casos
+Este repositorio resume soluciones de automatización aplicadas a procesos institucionales reales, orientadas a reducir la carga operativa manual y mejorar la eficiencia del flujo documental y de aprobaciones.
+
+## Documentación adicional
+- [Contexto de negocio](docs/business-context.md)
+- [Casos de automatización](docs/automation-cases.md)
+- [Impacto y resultados](docs/impact-and-results.md)
+
+## Consideraciones
+Este repositorio presenta una versión adaptada de casos reales, sin exponer información sensible ni detalles internos reservados.
