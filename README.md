@@ -43,6 +43,7 @@ flowchart LR
 ## Vista general de casos
 Este repositorio resume soluciones de automatización aplicadas a procesos institucionales reales, orientadas a reducir la carga operativa manual y mejorar la eficiencia del flujo documental y de aprobaciones.
 
+
 ## Documentación adicional
 - [Contexto de negocio](docs/business-context.md)
 - [Casos de automatización](docs/automation-cases.md)
